@@ -1,0 +1,103 @@
+{
+
+"products": [
+  {
+  "id": 1,
+  "name": "iphone 12 Pro",
+  "desc": "15.49 cm (6.1 inch) Super Retina XDR Display",
+  "prices": 1500,
+  "color": "#33505a",
+  "image":
+  "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/s/9/w/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrnpyygbv9.jpeg?q=70"},
+
+
+
+{ "id":2, 
+  "name":"Automatic Washing Machine ",
+  "desc":"IFB 6 kg 5 Star 2X Power Steam,",
+  "prices": 700,
+  "color":"#00ac51",
+   "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/washing-machine-new/j/z/y/-original-imagzwjk2rcfxfeb.jpeg?q=70"
+
+
+},
+{ "id":3, 
+  "name":" King Box Bed",
+  
+  "desc":"Flipkart Perfect Homes Opus Engineered Wood King Box Bed  ",
+  "prices":200,
+  "color":"#309033a",
+   "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/bed/q/u/r/-original-imagpprfybspfbnh.jpeg?q=70"
+
+
+},
+  { "id":4,
+    "name":" REDMI 10 ",
+
+    "desc":"4 GB RAM | 64 GB ROM |",
+    "prices":400,
+    "color":"#309033a",
+    "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/9/q/j/-original-imagk4nzwhudqhcz.jpeg?q=70"
+
+
+  },
+  { "id":5,
+    "name":" Lace Running Shoes ",
+
+    "desc":"World Wear Footwear \nLace Running Shoes For Boys  (Grey)",
+    "prices":50,
+    "color":"#309033a",
+    "image":"https://rukminim1.flixcart.com/image/832/832/kqse07k0/kids-shoe/w/j/k/13c-1665-world-wear-footwear-original-imag4pw5xvfesctb.jpeg?q=70"
+
+  },
+  {
+    "id":6,
+    "name":"LG LED TV",
+    "desc":"LG 80 cm (32 inch) HD Ready LED Smart WebOS TV  (32LM565BPTA)",
+    "prices":200,
+    "color":"#3788#",
+    "image":"https://rukminim1.flixcart.com/image/416/416/l0fm07k0/television/7/x/9/-original-imagc8fnpx39evgc.jpeg?q=70"
+  },
+  {
+    "id":7,
+    "name":"Asus Vivobook",
+    "desc":"ASUS Vivobook 15 Core i3 11th Gen -",
+    "prices":500,
+    "color":"#373737",
+    "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/q/e/z/-original-imagpxgqesgrthks.jpeg?q=70"
+  },
+  {
+    "id":8,
+    "name":"Apple ipad",
+    "desc":"APPLE MJQL3HN/A Magic for iPad Pro 12.9 inch (5th Gen) Bluetooth Tablet Keyboard  (White)",
+    "prices":500,
+    "color":"##8738",
+    "image":"https://rukminim1.flixcart.com/image/416/416/kpzt7680/keyboard/tablet-keyboard/a/g/l/mjql3hn-a-magic-for-ipad-pro-12-9-inch-5th-gen-apple-original-imag43rugjhy7emd.jpeg?q=70"
+  }
+  ,
+
+  {
+    "id":9,
+    "name":"Laptop Bag",
+    "desc":"15 inch Laptop Backpack  (Black)",
+    "prices":10,
+    "color":"#6363",
+    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/laptop-bag/n/h/b/-original-imaghanzznugzsfx.jpeg?q=70"
+  },
+  {
+    "id":10,
+    "name":"Ball",
+    "desc":"GJSHOP Pure Leather Water Proof Hard Cricket Ball Practice Tournament Cricket Leather Ball  (Pack of 1)",
+    "prices":5,
+    "color":"3783#56",
+    "image":"https://rukminim1.flixcart.com/image/416/416/kh5607k0/ball/h/u/j/150-25-leather-cricket-ball-2-pannel-maroon-standard-1-cricket-original-imafx8bywdh2bcza.jpeg?q=70"
+  }
+]
+
+
+
+
+
+
+
+}
